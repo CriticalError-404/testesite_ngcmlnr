@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type:none;
+}
+.introducao{
+    text-align: center;
+}
+.intro{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color:rgb(54, 190, 100);
+}
+.imgns{
+    align-items: center;
+    text-align: center;
+}
+.img1{
+    width: 150px;
+    height:150px;
+    
+}
